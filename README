@@ -1,1 +1,3 @@
 This is just another Tetris clone I programmed a while ago.
+
+TODO: store highscores in user's directory, can't write to the file inside a jar
